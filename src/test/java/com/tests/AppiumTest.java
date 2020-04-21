@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void openBrowser()
 	{
 		System.out.println("Opening Browser");
+		System.out.println("Opening Chrome Browser");
 	}
 
 }
